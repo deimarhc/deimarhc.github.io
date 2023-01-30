@@ -1,0 +1,30 @@
+.color-horizontal {
+    height: 15px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.color-horizontal-bottom {
+    position: fixed;
+    bottom: 0;
+    height: 15px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.main {
+    padding: 5rem 0;
+}
+
+.me-img img {
+    border-radius: 100%;
+    margin-bottom: 5rem;
+}
+
+.me-details p{
+    font-size: 1.2rem;
+}
+
+.me-details ul {
+    font-size: 1.2rem;
+}
